@@ -1,11 +1,14 @@
 {
-  "name": "resume",
+  "name": "portfolioLolyta",
   "version": "0.1.0",
+  "homepage": "www.lolytaproject.site.lolyta",
   "private": true,
   "dependencies": {
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1"
+    "mdb-react-ui-kit": "^5.0.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "2.1.1",
+    "reactstrap": "^9.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
