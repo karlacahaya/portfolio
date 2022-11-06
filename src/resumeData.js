@@ -30,14 +30,14 @@ let resumeData = {
       {
         "UniversityName":"Nicolaus Copernicus University",
         "specialization":"Masters Degree in Business Administration",
-        "MonthOfPassing":"Current",
+        "MonthOfPassing":"2021 - Current",
         "YearOfPassing":" ",
         "Achievements":"Actively join in Student Activity in Campus and outside as Volunteer & selected to join Double Degree Program in Anger University, French."
       },
       {
         "UniversityName":"Universite d’Angers",
         "specialization":"International Management",
-        "MonthOfPassing":"Current",
+        "MonthOfPassing":"2021 - Current",
         "YearOfPassing":"",
         "Achievements":"Joining Adobe Analysis Competition 2022 and Digital Marketing Copetition 2022."
       },
