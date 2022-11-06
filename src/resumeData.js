@@ -12,34 +12,39 @@ let resumeData = {
           "url":"https://id.linkedin.com/in/hasta-prayuna-lolyta-0b06b61a1/",
           "className":"fa fa-linkedin"
         },
-        // {
-        //   "name":"github",
-        //   "url":" ",
-        //   "className":"fa fa-github"
-        // },
         {
-          "name":"skype",
-          "url":"https://twitter.com/home",
-          "className":"fa fa-twitter"
+          "name":"instagram",
+          "url":"https://www.instagram.com/lollyyyta/",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"youtube",
+          "url":"https://www.youtube.com/channel/UClTEMBE2O8w2gtqGfRCl1sw",
+          "className":"fa fa-youtube"
+        },
+        {
+          "name":"tiktok",
+          "url":"http://www.tiktok.com/@lollyyyta",
+          "className":"fa fa-tiktok"
         }
       ],
-    "aboutme":"Currently staying in Torun, Poland to pursue my Master's study in Business Administration. During my study in Indonesia, I actively joined several projects and volunteers activities. I also have working experiences in relevant professional career in accounting and marketing.",
+    "aboutme":"Currently staying in Angers, France to pursue my Double Diploma Program in International Management and Marketing. During my staying here I actively make contents through social media like Instagram, Tiktok and YouTube to share my activities and make it as my exposure about my works. ",
     "address":"lolytadesk@gmail.com",
     "website":"+33769268776",
     "education":[
+      {
+        "UniversityName":"Universite d’Angers",
+        "specialization":"International Management",
+        "MonthOfPassing":"2022 - Current",
+        "YearOfPassing":"",
+        "Achievements":"Joining Adobe Analysis Competition 2022 and Digital Marketing Competition 2022."
+      },
       {
         "UniversityName":"Nicolaus Copernicus University",
         "specialization":"Masters Degree in Business Administration",
         "MonthOfPassing":"2021 - Current",
         "YearOfPassing":" ",
         "Achievements":"Actively join in Student Activity in Campus and outside as Volunteer & selected to join Double Degree Program in Anger University, French."
-      },
-      {
-        "UniversityName":"Universite d’Angers",
-        "specialization":"International Management",
-        "MonthOfPassing":"2021 - Current",
-        "YearOfPassing":"",
-        "Achievements":"Joining Adobe Analysis Competition 2022 and Digital Marketing Copetition 2022."
       },
       {
         "UniversityName":"Asia University",
