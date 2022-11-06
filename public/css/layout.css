@@ -138,12 +138,17 @@ header .scrolldown a:hover { color: #11ABB0; }
    z-index: 100;
    position: fixed;
    left: 0;
-   top: 0;
+   top: 0;;
 }
 .opaque { background-color: #333; }
 
 /* hide toggle button */
-#nav-wrap > a.mobile-btn { display: none; background-color: #193403}
+#nav-wrap > a.mobile-btn { 
+   display: none; 
+   background-color: #193403;
+   margin-top: 25px;
+   border-radius: 15px;
+   }
 
 ul#nav {
    min-height: 48px;
@@ -151,6 +156,8 @@ ul#nav {
 
    /* center align the menu */
    text-align: center;
+   opacity: 75%;
+   border-radius: 15px;
 }
 ul#nav li {
    position: relative;
@@ -443,8 +450,8 @@ ul#nav li.current a { color: #193403; }
    display: grid;
    margin-left: auto;
    margin-right: auto;
-   height: 75%;
-   width: 75%;
+   height: 85%;
+   width: 85%;
    margin-bottom: 70px;
    margin-top: 40px;
 }
