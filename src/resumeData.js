@@ -85,14 +85,14 @@ let resumeData = {
           "specialization": "Volunteer",
           "MonthOfLeaving": "Oct 2021 ",
           "YearOfPassing": " - Present",
-          "Achievements": "Shared concerns for children, sustainable living, and also share things like a willingness to step outside their comfort zone, anopenness to spending time on a community, a proclivity for engaging in team-oriented activities, and a desire to contribute to the well-being of others."
+          "Achievements": "Shared concerns for children, sustainable living, and also share things like a willingness to step outside their comfort zone, an openness to spending time on a community, a proclivity for engaging in team-oriented activities, and a desire to contribute to the well-being of others."
         },
         {
           "CompanyName": "Ministry Republic of Indonesia",
           "specialization": "Project Intern",
           "MonthOfLeaving": "Nov 2019 ",
           "YearOfPassing": " - Dec 2019",
-          "Achievements": "Assisted in State Property Service and Auction Office, attended and Assisted auction process & classify and organize 80% of archives in Law and Information section."
+          "Achievements": "Assisted in State Property Service and Auction Office, attended, assisted auction process & classify and organize 80% of archives in Law and Information section."
         },
         {
           "CompanyName": "Hoshizora Foundation",
@@ -106,7 +106,7 @@ let resumeData = {
           "specialization": "Freelancer as Social Media Planner",
           "MonthOfLeaving": "Mar 2018",
           "YearOfPassing": " - Aug 2018",
-          "Achievements": "Developed a content plan in social media, create content that has value and organize programs with influencers & uccessfully gained 500 customers less than 1 months through instagram by online order and offline."
+          "Achievements": "Developed a content plan in social media, create content that has value and organize programs with influencers & successfully gained 500 customers less than 1 months through instagram by online order and offline."
         }
     ],
     "skillsDescription":"",
