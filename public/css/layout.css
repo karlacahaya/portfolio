@@ -450,8 +450,8 @@ ul#nav li.current a { color: #193403; }
    display: grid;
    margin-left: auto;
    margin-right: auto;
-   height: 85%;
-   width: 85%;
+   height: 90%;
+   width: 90%;
    margin-bottom: 70px;
    margin-top: 40px;
 }

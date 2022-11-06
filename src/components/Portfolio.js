@@ -8,6 +8,7 @@ export default class Porfolio extends Component {
       <div className="row">
         {/* <div className="twelve columns collapsed"> */}
           <div id="portfolio-wrapper">
+          <h1>Project</h1>
           {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{
               return(
@@ -15,7 +16,6 @@ export default class Porfolio extends Component {
                   <div className="item-wrap">
                     {/* <a href="#modal-01"> */}
                     <row>
-                      <h1 style={{}}>Check Out Some of My Works</h1>
                       <img src={`${item.imgurl}`} className="item-img" alt=''/>
                     </row>
                   </div>
