@@ -1220,7 +1220,7 @@
 .fa-instagram:before {
   content: "\f16d";
 } 
-.fa-tiktok:before {
+.fa-brands .fa-tiktok:before {
   content: "\e07b"
 }
 .fa-flickr:before {
