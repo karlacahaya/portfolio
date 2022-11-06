@@ -143,7 +143,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 .opaque { background-color: #333; }
 
 /* hide toggle button */
-#nav-wrap > a.mobile-btn { display: none; }
+#nav-wrap > a.mobile-btn { display: none; background-color: #193403}
 
 ul#nav {
    min-height: 48px;
@@ -982,7 +982,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #193403;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
