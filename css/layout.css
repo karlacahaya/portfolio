@@ -91,7 +91,7 @@ header .banner-text h3 a {
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
-   border-color: #2F2D2E;
+   border-color: #252323;
    border-color: rgba(150, 150, 150, .1);
 }
 
@@ -159,7 +159,7 @@ header .scrolldown a:hover {
    left: 0;
    top: 0;;
 }
-.opaque { background-color: #460202 }
+.opaque { background-color: #6c3535}
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { 
